@@ -3,7 +3,7 @@
 
 def calculate(a, b, operation):
     if operation == "add":
-        # Add your logic here
+        return a + b
         pass
     elif operation == "subtract":
         # Add your logic here
